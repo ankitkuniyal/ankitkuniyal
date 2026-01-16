@@ -13,8 +13,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitkuniyal)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitkuniyal520@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-30363D?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO)
-[![Resume](https://img.shields.io/badge/Resume-PDF-ff3e3e?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1hm-hYjANbU3XSNEJiRTWG1iFotqOyXLS/view?usp=sharing)
+[![Portfolio](https://img.shields.io/badge/Portfolio-30363D?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ankitkuniyal.vercel.app)
 
 </div>
 
@@ -57,7 +56,6 @@ const ankit = {
 - Exploratory Data Analysis (EDA)
 - Web Scraping (BeautifulSoup, Selenium, APIs)
 - Machine Learning: Regression, Classification, Clustering
-- Model Tuning, Cross-Validation & Metrics
 - Visualization: Matplotlib · Seaborn · Dashboarding
 
 ## 🛠️ Tech Stack
@@ -74,7 +72,7 @@ const ankit = {
 `Pandas` · `NumPy` · `Scikit-Learn` · `Matplotlib` 
 
 ### **Tools**
-`Git` · `Docker` · `Postman` · `Tableau` · `VS Code`
+`Git` · `Docker` · `Postman` · `VS Code`
 
 </div>
 
