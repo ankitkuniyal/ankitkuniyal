@@ -13,7 +13,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitkuniyal)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitkuniyal520@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-30363D?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ankitkuniyal.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-30363D?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ankitkuniyal.in)
 
 </div>
 
@@ -66,7 +66,7 @@ const ankit = {
 `Python` · `Java` · `JavaScript` · `SQL` 
 
 ### **Frameworks**
-`React` · `Node.js` · `React Native` · `MERN Stack`
+`React.js` · `Node.js` · `Next.js` · `MERN Stack`
 
 ### **Data Science**
 `Pandas` · `NumPy` · `Scikit-Learn` · `Matplotlib` 
